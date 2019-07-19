@@ -1,2 +1,4 @@
 # pudan-k.github.io
-[I'm an inline-style link](https://www.google.com)
+[Form TRANSLOC](https://forms.gle/yHxC8Ase4cYMBwVf7)
+[Form PICKING](https://forms.gle/fP9jvKNDsxtqBNQB7)
+[SCANNER](https://play.google.com/store/apps/details?id=com.nikosoft.nikokeyboard&hl=en)
